@@ -1,0 +1,60 @@
+/* CSS Document */
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,700,900);
+*{
+    margin:0 auto ;
+}
+body {
+    
+    font-size:22px;
+    line-height: 32px;
+    color: #ffffff;
+   font-family: 'Lobster', cursive;
+    }
+    /*start of  nav area */
+.nav{
+    height: 50px;
+    width: 100%;
+    background:#00796B;
+  font-family: 'Orbitron', sans-serif;
+}
+ul{
+    margin-left: 20%;
+       list-style: none;
+text-decoration:none;
+}
+ul li a{
+    float: left;
+    text-decoration: none;
+    margin-left: 29px;
+    padding: 9px 20px;
+    color: #fff;
+    transition:all 5s ease;
+}
+
+ul li a:hover{
+    background-color:hsla(161, 44%, 9%, 0.71);
+    color: #fff;
+
+}
+
+
+
+    /*end of  nav area */
+
+
+
+
+
+
+
+
+
+
+
+
+ /*iiiiiiiiiiiiiiii*/
+ #animated-example2{
+
+ }
